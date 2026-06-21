@@ -1,4 +1,4 @@
-# Olá, eu sou Gabriel Paes 👋
+# Olá, eu sou Gabriel Paes Cardenette 👋
 
 Infrastructure Analyst transitioning into Cloud Engineering, focused on AWS and DevOps.
 

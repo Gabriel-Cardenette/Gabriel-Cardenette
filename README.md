@@ -1,5 +1,6 @@
 # Olá, eu sou Gabriel Paes Cardenette 👋
 AWS | Linux | Docker | Kubernetes | Terraform | DevOps
+
 Infrastructure Analyst transitioning into Cloud Engineering, focused on AWS and DevOps.
 
 ## Certifications

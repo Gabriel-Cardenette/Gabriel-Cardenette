@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Paes 👋
 
-<!--
-**Gabriel-Cardenette/Gabriel-Cardenette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure Analyst transitioning into Cloud Engineering, focused on AWS and DevOps.
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* AWS Certified Cloud Practitioner (CLF-C02)
+* Cisco Networking Basics
+* Cisco Introduction to Cybersecurity
+
+## Technical Skills
+
+### Cloud
+
+* AWS EC2
+* IAM
+* S3
+* CloudWatch
+* VPC
+
+### DevOps / Infrastructure
+
+* Docker
+* Kubernetes
+* Terraform
+* GitHub Actions
+* CI/CD
+
+### Operating Systems & Automation
+
+* Linux
+* Bash
+* Python
+* Troubleshooting
+* SSH
+
+## Featured Projects
+
+* CI/CD Pipeline with GitHub Actions
+* AWS Monitoring Lab
+* Kubernetes Labs
+* Terraform Infrastructure
+
+## Currently Studying
+
+* AWS Solutions Architect Associate
+* Cloud Monitoring
+* Infrastructure as Code
+* Kubernetes
+
+## Contact
+
+LinkedIn: linkedin.com/in/gabriel-paes-cardenette-b604b6235
+Email: [gabriel.cardenette00@gmail.com](mailto:gabriel.cardenette00@gmail.com)

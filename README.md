@@ -10,7 +10,11 @@ Infrastructure Analyst transitioning into Cloud Engineering, with hands-on exper
 * Cisco Introduction to Cybersecurity
 
 ## Technical Skills
+## Featured Projects
 
+- CI/CD Pipeline with GitHub Actions
+- AWS Monitoring Lab (In Progress)
+- Kubernetes Troubleshooting Lab (In Progress)
 ### Cloud
 
 * AWS EC2

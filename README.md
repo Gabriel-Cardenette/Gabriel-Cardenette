@@ -1,4 +1,10 @@
 # Olá, eu sou Gabriel Paes Cardenette 👋
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
 AWS Certified Cloud Practitioner ☁️ | Cloud | Terraform | Docker | Kubernetes | DevOps
 
@@ -134,3 +140,15 @@ https://linkedin.com/in/gabriel-paes-cardenette-b604b6235
 📧 Email
 
 gabriel.cardenette00@gmail.com
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cardenette&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cardenette&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>

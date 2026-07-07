@@ -143,9 +143,40 @@ gabriel.cardenette00@gmail.com
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Learning Progress
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Cardenette&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cardenette&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
+## ✅ Certifications
+
+- AWS Certified Cloud Practitioner (CLF-C02)
+- Cisco Networking Basics
+- Cisco Introduction to Cybersecurity
+
+---
+
+## 🚀 Completed Projects
+
+- ✅ GitHub Actions CI/CD Pipeline
+- ✅ AWS Terraform EC2 Lab
+- ✅ AWS Terraform S3 Lab
+- ✅ AWS Terraform VPC Lab
+
+---
+
+## 📚 Currently Studying
+
+- AWS Solutions Architect Associate (SAA-C03)
+- Terraform
+- Kubernetes
+- Infrastructure as Code
+- AWS Networking
+
+---
+
+## 🎯 Next Projects
+
+- 🔄 Terraform + Application Load Balancer (ALB)
+- 🔄 Terraform + Auto Scaling Group (ASG)
+- 🔄 Terraform + Amazon RDS
+- 🔄 Terraform + ECS
+- 🔄 Terraform + EKS
+- 🔄 Terraform + Remote State (S3 Backend)

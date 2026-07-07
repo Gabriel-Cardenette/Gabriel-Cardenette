@@ -1,59 +1,136 @@
 # Olá, eu sou Gabriel Paes Cardenette 👋
-AWS | Linux | Docker | Kubernetes | Terraform | DevOps
 
-Infrastructure Analyst transitioning into Cloud Engineering, with hands-on experience in AWS, Linux, automation and cloud infrastructure.
+AWS Certified Cloud Practitioner ☁️ | Cloud | Terraform | Docker | Kubernetes | DevOps
 
-## Certifications
+Infrastructure Analyst transitioning into Cloud Engineering, building hands-on projects focused on AWS, Terraform, Infrastructure as Code and DevOps.
 
-* AWS Certified Cloud Practitioner (CLF-C02)
-* Cisco Networking Basics
-* Cisco Introduction to Cybersecurity
+---
 
-## Technical Skills
-## Featured Projects
+## 🏆 Certifications
 
-- CI/CD Pipeline with GitHub Actions
-- AWS Monitoring Lab (In Progress)
-- Kubernetes Troubleshooting Lab (In Progress)
-### Cloud
+- ✅ AWS Certified Cloud Practitioner (CLF-C02)
+- ✅ Cisco Networking Basics
+- ✅ Cisco Introduction to Cybersecurity
 
-* AWS EC2
-* IAM
-* S3
-* CloudWatch
-* VPC
+---
 
-### DevOps / Infrastructure
+## 🚀 Featured Projects
 
-* Docker
-* Kubernetes
-* Terraform
-* GitHub Actions
-* CI/CD
+### ☁️ AWS Terraform VPC Lab
+Provisioning a complete AWS networking infrastructure using Terraform, including:
 
-### Operating Systems & Automation
+- Amazon VPC
+- Public Subnet
+- Internet Gateway
+- Route Table
+- Security Group
+- Amazon EC2
 
-* Linux
-* Bash
-* Python
-* Troubleshooting
-* SSH
+🔗 https://github.com/Gabriel-Cardenette/aws-terraform-vpc-lab
 
-## Featured Projects
+---
 
-* CI/CD Pipeline with GitHub Actions
-* AWS Monitoring Lab
-* Kubernetes Labs
-* Terraform Infrastructure
+### 📦 AWS Terraform S3 Lab
 
-## Currently Studying
+Provisioning an Amazon S3 Bucket with Versioning using Terraform.
 
-* AWS Solutions Architect Associate
-* Cloud Monitoring
-* Infrastructure as Code
-* Kubernetes
+Technologies:
 
-## Contact
+- Terraform
+- Amazon S3
+- AWS IAM
+- AWS CLI
 
-LinkedIn: linkedin.com/in/gabriel-paes-cardenette-b604b6235
-Email: [gabriel.cardenette00@gmail.com](mailto:gabriel.cardenette00@gmail.com)
+🔗 https://github.com/Gabriel-Cardenette/aws-terraform-s3-lab
+
+---
+
+### 💻 AWS Terraform EC2 Lab
+
+Provisioning an Amazon EC2 instance using Terraform.
+
+Technologies:
+
+- Terraform
+- Amazon EC2
+- AWS IAM
+- Security Groups
+
+🔗 https://github.com/Gabriel-Cardenette/aws-terraform-ec2-lab
+
+---
+
+### ⚙️ GitHub Actions CI/CD Pipeline
+
+Automated CI/CD pipeline using GitHub Actions.
+
+Features:
+
+- Build Automation
+- Docker Image Build
+- Docker Hub Push
+- Continuous Integration
+
+🔗 https://github.com/Gabriel-Cardenette/github-actions-ci-cd-pipeline
+
+---
+
+## ☁️ Cloud Skills
+
+- Amazon EC2
+- Amazon S3
+- Amazon VPC
+- IAM
+- CloudWatch
+- AWS CLI
+
+---
+
+## ⚙️ DevOps & Infrastructure
+
+- Terraform
+- Docker
+- Kubernetes
+- Git
+- GitHub Actions
+- CI/CD
+- Infrastructure as Code (IaC)
+
+---
+
+## 💻 Operating Systems & Automation
+
+- Linux
+- Bash
+- Python
+- SSH
+- Troubleshooting
+
+---
+
+## 📚 Currently Studying
+
+- AWS Solutions Architect Associate (SAA-C03)
+- Terraform
+- Kubernetes
+- AWS Networking
+- High Availability Architectures
+- Infrastructure as Code (IaC)
+
+---
+
+## 🎯 Career Goal
+
+Seeking opportunities as a Cloud Engineer / DevOps Engineer, applying AWS, Terraform and Infrastructure as Code to build scalable, secure and automated cloud environments.
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn
+
+https://linkedin.com/in/gabriel-paes-cardenette-b604b6235
+
+📧 Email
+
+gabriel.cardenette00@gmail.com

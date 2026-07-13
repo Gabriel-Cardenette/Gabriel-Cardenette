@@ -175,7 +175,6 @@ gabriel.cardenette00@gmail.com
 
 ## 🎯 Next Projects
 
-- 🔄 Terraform + Application Load Balancer (ALB)
 - 🔄 Terraform + Auto Scaling Group (ASG)
 - 🔄 Terraform + Amazon RDS
 - 🔄 Terraform + ECS

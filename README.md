@@ -155,10 +155,11 @@ gabriel.cardenette00@gmail.com
 
 ## 🚀 Completed Projects
 
-- ✅ GitHub Actions CI/CD Pipeline
-- ✅ AWS Terraform EC2 Lab
-- ✅ AWS Terraform S3 Lab
-- ✅ AWS Terraform VPC Lab
+- ✅ [GitHub Actions CI/CD Pipeline](https://github.com/Gabriel-Cardenette/github-actions-ci-cd-pipeline)
+- ✅ [AWS Terraform EC2 Lab](https://github.com/Gabriel-Cardenette/aws-terraform-ec2-lab)
+- ✅ [AWS Terraform S3 Lab](https://github.com/Gabriel-Cardenette/aws-terraform-s3-lab)
+- ✅ [AWS Terraform VPC Lab](https://github.com/Gabriel-Cardenette/aws-terraform-vpc-lab)
+- ✅ [AWS Terraform ALB Lab](https://github.com/Gabriel-Cardenette/aws-terraform-alb-lab)
 
 ---
 
